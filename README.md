@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🔥 **CVE-2025-55182**
 *Interactive RCE exploitation tool for CVE-2025-55182 (React Server Components)*
