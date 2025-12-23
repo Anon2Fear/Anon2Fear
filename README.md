@@ -35,6 +35,7 @@
 *Interactive RCE exploitation tool for CVE-2025-55182 (React Server Components)*
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anon2Fear/CVE-2025-55182)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
@@ -42,15 +43,24 @@
 *Atlassian Confluence RCE Exploitation Framework*
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anon2Fear/CVE-2022-26134)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ---
 
+### 🔥 **CVE-2022-22965**
 
+*CVE-2022-22965 - Spring4Shell*
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anon2Fear/CVE-2022-22965)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+---
 
 ### ⚡ **Loxs**
 *Multi-threaded web vulnerability scanner detecting SQLi, XSS, LFI, Open Redirects, and CRLF injections.*
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coffinxp/loxs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -58,6 +68,7 @@
 *OSINT intelligence tool for Pakistani mobile numbers and CNICs with CLI & GUI support.*
 
 [![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0nsec/DataWhiz)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
