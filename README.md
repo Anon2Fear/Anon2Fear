@@ -38,6 +38,15 @@
 
 ---
 
+### 🔥 **CVE-2022-26134**
+*Atlassian Confluence RCE Exploitation Framework*
+
+[![Repo](https://img.shields.io/badge/View_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anon2Fear/CVE-2022-26134)
+
+---
+
+
+
 ### ⚡ **Loxs**
 *Multi-threaded web vulnerability scanner detecting SQLi, XSS, LFI, Open Redirects, and CRLF injections.*
 
