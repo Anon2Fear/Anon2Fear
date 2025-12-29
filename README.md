@@ -72,13 +72,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anon2Fear&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anon2Fear&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
+![Contribution Graph](https://ghchart.rshah.org/00F7F7/Anon2Fear)
+
+</div>
+
+<div align="center">
+
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Anon2Fear&label=Public%20Repos&query=$.public_repos&color=00F7F7&style=flat-square&logo=github)
 
 </div>
 
